@@ -88,7 +88,7 @@ Googleがこれを価値ある取り組みとしてやってるらしい。
 
 
 https://postd.cc/lessons-learned-from-reading-postmortems/
-まだ読めてない。
+ポストモーテムを調べた結果、重大な障害の原因の92%は不適切なエラーハンドリングが原因だった。
 
 A List of Post-mortems!
 https://github.com/danluu/post-mortems
