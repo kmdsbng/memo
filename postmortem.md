@@ -148,3 +148,5 @@ https://rework.withgoogle.com/jp/guides/foster-an-innovative-workplace/steps/lea
 ・定期的なポストモーテムの読書会
 ・トレーニング「不運の輪」
 　→ポストモーテムに書かれている役割を、エンジニアたちが演じて再現する。
+
+https://www.blameless.com/blog/5-best-practices-nailing-postmortems
